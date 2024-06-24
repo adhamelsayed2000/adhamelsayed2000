@@ -79,15 +79,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/adhamelsayed2000/adhamelsayed2000/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/adham-el-sayed-bin-ahmed/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="119" height="84" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
